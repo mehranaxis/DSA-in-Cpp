@@ -10,5 +10,4 @@ int main(){
         }
     }
     cout<<"number of zeros are "<< num<<endl;
-
 }
